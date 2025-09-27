@@ -1,4 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0m> Exec(sbtVersion, Some(387dc1c7-7945-4873-a3a1-113e665eea87), Some(CommandSource(console0)))[0m
-[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: sbtVersion[0m
-[0m[[0m[0minfo[0m] [0m[0m1.10.11[0m
-[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
